@@ -1,5 +1,5 @@
 # Custom-Image-Classifier 
-Google collab: https://colab.research.google.com/drive/1kb2EGRIgMvRcBPLnvVM6bPdETOKDCey1?usp=sharing
+Google collab: 
 
 Guide Questions (Student Explanation & Reflection)
 Students must answer:
