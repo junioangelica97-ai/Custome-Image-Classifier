@@ -34,7 +34,9 @@ After: Slightly lower but more stable and reliable accuracy (better generalizati
 Answer: The technique that contributed most to improvement is data augmentation.
 It had a bigger impact because it increased the variety of training data, helping the model learn more general patterns. While dropout helped reduce overfitting, data augmentation directly improved how the model performs on unseen data. 
 
+
 Deployment & Application
+
 7. Why is saving the model important?
 
 Answer: Saving the model is important because it allows you to reuse the trained model without retraining it again. Training takes time and resources, so saving it lets you easily load the model later for prediction, testing, or deployment.
